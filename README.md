@@ -134,3 +134,4 @@ By improving preprocessing techniques, trying different machine learning models,
 
 #OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/f01f3ae5-f651-4f6b-b41e-ead0d43ba434)
